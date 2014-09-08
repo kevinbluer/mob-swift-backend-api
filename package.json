@@ -1,0 +1,20 @@
+{
+  "author": "The World",
+  "name": "mob-swift-backend-api",
+  "description": "Swift API Example",
+  "version": "1.0.0",
+  "homepage": "api.yourdomain.com",
+  "repository": {
+    "url": ""
+  },
+  "main": "app.js",
+  "engines": {
+    "node": "~0.10.x"
+  },
+  "dependencies": {
+    "restify": "~2.8.1",
+    "mongoose": "~3.8.13",
+    "node-twitter-api": "~1.2.3"
+  },
+  "devDependencies": {}
+}
